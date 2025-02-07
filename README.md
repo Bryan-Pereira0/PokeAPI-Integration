@@ -24,6 +24,7 @@ This project uses the PokeAPI to fetch and display Pokemon data.
 - `moves.js`: Fetches and displays Pokemon moves.
 - `details.js`: Displays detailed Pokemon information.
 - `styles.css`: Contains custom styles.
+- `scripts.js`: Contains all general use scripts.
 - `README.md`: This file.
 
 Enjoy exploring Pokemon!
